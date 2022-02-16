@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>ABC Technologies - Home Page</title>
+<title>ABCD Technologies - Home Page</title>
 <link href="images/sandeeplogo.jpg" rel="icon">
 </head>
 </head>
