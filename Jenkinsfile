@@ -41,4 +41,41 @@ stages{
    }
    
 }
+
+post{
+
+always{
+
+emailext body: '''Build is Over
+
+Hi
+
+Reagards
+M Sandeep''', subject: 'Build Over', to: 'dsf.sandeep@gmail.com'
+
+}
+
+success{
+
+emailext body: '''Build is Over
+
+Hi
+
+Reagards
+M Sandeep''', subject: 'Build Success', to: 'dsf.sandeep@gmail.com'
+
+}
+
+failure{
+
+emailext body: '''Build is Over
+
+Hi
+
+Reagards
+M Sandeep''', subject: 'Build Failed', to: 'dsf.sandeep@gmail.com'
+
+}
+
+}
 }
