@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ABC Technologies Releases Nexus Repository</name>
-	      <url>hhttp://34.227.24.126:8081/repository/walmart-release/</url>
+	      <url>http://16.170.140.225:8081/repository/flipkart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ABC Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.227.24.126:8081/repository/walmart-snapshot/</url>
+	      <url>http://16.170.140.225:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
