@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ABC Technologies Snapshot Nexus Repository </name>
-	      <url>http://16.171.65.16:8081/repository/walmart-snapshot/</url>
+	      <url>http://13.53.207.13:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
